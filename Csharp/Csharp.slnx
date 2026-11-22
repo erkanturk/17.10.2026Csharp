@@ -18,4 +18,7 @@
   <Project Path="09_Donguler_4_OdevCozum/09_Donguler_4_OdevCozum.csproj" Id="cc182efe-b743-4444-89c8-4409fb90141c" />
   <Project Path="10_Arrays/10_Arrays.csproj" Id="1418f9c4-3c9a-4e34-8a21-2006c3ffa873" />
   <Project Path="10_Arrays_2_Methodlar/10_Arrays_2_Methodlar.csproj" Id="76316ee5-dd91-4d5c-a21b-fc18b542a947" />
+  <Project Path="11_Methodlar/11_Methodlar.csproj" Id="e22727ac-63d7-4a15-a010-155fe5ee2b8f" />
+  <Project Path="11_Methodlar_2_Void/11_Methodlar_2_Void.csproj" Id="0f6eed94-542b-4d3a-9c90-c494c1f28eaf" />
+  <Project Path="11_Methodlar_3_Returns/11_Methodlar_3_Returns.csproj" Id="d9f2904a-a093-4810-9a25-f2824e974bf6" />
 </Solution>
